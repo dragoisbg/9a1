@@ -1,0 +1,7 @@
+C:\9a\ЗАКОНИ\ЗАКОНИ\bin\Debug\ЗАКОНИ.exe.config
+C:\9a\ЗАКОНИ\ЗАКОНИ\bin\Debug\ЗАКОНИ.exe
+C:\9a\ЗАКОНИ\ЗАКОНИ\bin\Debug\ЗАКОНИ.pdb
+C:\9a\ЗАКОНИ\ЗАКОНИ\obj\Debug\ЗАКОНИ.csproj.AssemblyReference.cache
+C:\9a\ЗАКОНИ\ЗАКОНИ\obj\Debug\ЗАКОНИ.csproj.CoreCompileInputs.cache
+C:\9a\ЗАКОНИ\ЗАКОНИ\obj\Debug\ЗАКОНИ.exe
+C:\9a\ЗАКОНИ\ЗАКОНИ\obj\Debug\ЗАКОНИ.pdb
